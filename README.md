@@ -78,9 +78,9 @@
 <div align="left">
 <p align="left">
 <a href="https://github.com/conanlhj/">
-  <img src="https://github-readme-stats.vercel.app/api?username=conanlhj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=material-palenight" width="450"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conanlhj&show_icons=true&locale=en&layout=compact&line_height=20&theme=material-palenight" width="200"  alt="conanlhj"/>
-</a><br> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=conanlhj" width="375"  alt="conanlhj"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=conanlhj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=material-palenight" width="400"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conanlhj&show_icons=true&locale=en&layout=compact&line_height=20&theme=material-palenight" width="250"  alt="conanlhj"/>
+</a><br> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=conanlhj" width="320"  alt="conanlhj"/>
     </p>
 </div>
 
