@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
     <picture><img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/about_me.png" width = 200px></picture>
 </p>
 
@@ -75,8 +75,8 @@
 
 <br>
 
-<div align="center">
-<p align="center">
+<div align="left">
+<p align="left">
 <a href="https://github.com/conanlhj/">
   <img src="https://github-readme-stats.vercel.app/api?username=conanlhj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=material-palenight" width="450"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conanlhj&show_icons=true&locale=en&layout=compact&line_height=20&theme=material-palenight" width="375"  alt="conanlhj"/>
