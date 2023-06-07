@@ -12,7 +12,7 @@
 
 # <img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/bongo-cat-transparent.gif" width = 40px><b> About me </b><img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/bongo-cat-transparent.gif" width = 40px>
 
-- Pre-Masters Student
+- Senior Student
 - Department of Computer Information and Communication Engineering
 - Yonsei University Mirae Campus
 - Personal website [[Click Here!]](https://shiggy.kr)
