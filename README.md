@@ -12,10 +12,9 @@
 
 # <img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/bongo-cat-transparent.gif" width = 40px><b> About me </b><img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/bongo-cat-transparent.gif" width = 40px>
 
-- Senior Student
+- Pre-masters Student
 - Department of Computer Information and Communication Engineering
 - Yonsei University Mirae Campus
-- Bachelors and Master's Linked Course in progress
 - Personal website [[Click Here!]](https://shiggy.kr)
 - Lab website [[AIS Lab]](https://sites.google.com/view/aislab-shchoi)
 
