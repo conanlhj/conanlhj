@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
     <picture><img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/about_me.png" width = 200px></picture>
 </p>
 
@@ -12,29 +12,32 @@
 
 # <img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/bongo-cat-transparent.gif" width = 40px><b> About me </b><img src = "https://raw.githubusercontent.com/conanlhj/conanlhj/main/bongo-cat-transparent.gif" width = 40px>
 
-- Senior Student
-- Department of Computer Information and Communication Engineering
-- Yonsei University Mirae Campus
-- Personal website [[Click Here!]](https://shiggy.kr)
-- Lab website [[AIS Lab]](https://sites.google.com/view/aislab-shchoi)
+- Integrated undergraduate-graduate program in the Department of Computer Science at Yonsei University.
+- Senior Student in the Department of Computer Information and Communication Engineering at Yonsei University Mirae Campus
+- Undergraduate Researcher in [[AISLab]](https://sites.google.com/view/aislab-shchoi)
+- [[Personal website]](https://shiggy.kr)
 
 <br>
 
-# <img src="https://media.giphy.com/media/MasfNVDb2lkeB44QIC/giphy.gif" width =40px><b> Research Area </b><img src="https://media.giphy.com/media/MasfNVDb2lkeB44QIC/giphy.gif" width =40px>
+# <img src="https://media.giphy.com/media/HkeweCgYHwPImOGHRX/giphy.gif" width =40px><b> Research Area </b><img src="https://media.giphy.com/media/HkeweCgYHwPImOGHRX/giphy.gif" width =40px>
 
 - ML / DL
-- Computer-Vision
-- Security for AI
-- AI for Security
+- CV (Computer-Vision)
+- Security for AI & AI for Security
 
 <br>
 
-# <img src="https://media.giphy.com/media/v1sJPCGg1z2HROGgV6/giphy.gif" width =40px><b> Publications </b><img src="https://media.giphy.com/media/v1sJPCGg1z2HROGgV6/giphy.gif" width =40px>
+# <img src="https://media.giphy.com/media/MasfNVDb2lkeB44QIC/giphy.gif" width =40px><b> Experiences </b><img src="https://media.giphy.com/media/MasfNVDb2lkeB44QIC/giphy.gif" width =40px>
 
-## **Domestic Journal**
-
-- ### **2022**
-  - **Han-Jin Lee**, Ji-Woong Yang and Ellen J. Hong. (2022). Proposed Pre-Processing Method for Improving Pothole Dataset Performance in Deep Learning Model and Verification by YOLO Model. JISPS, 23(4), 249-255.
+- [2023.03 ~ 2023.06] : Robot Algorithm 기반 구현 프로젝트 진행 [[link]](https://github.com/conanlhj/Robot-Algorithm)
+- [2022.09 ~ 2023.06] : GCN기반 도로 교통사고 위험도 예측 모델 개발 연구 참여
+- [2022.09 ~ 2022.12] : MobileNetV2를 활용한 연예인 닮은 꼴 찾기 서비스 개발 참여
+- [2022.05 ~ 2022.06] : YOLO를 이용한 포트홀 검출 프로그램 개발
+- [2022.03 ~ 2022.05] : 포트홀 데이터셋에 대한 전처리 방법 개발
+- [2021.09 ~ 2021.11] : CycleGAN을 이용한 증강현실 풍경 계절 변경 프로그램 개발
+- [2021.08] : CNN기반 표정인식 프로그램을 활용한 고통 강도 예측 프로그램 개발
+- [2021.02] : Mancala AI 제작 [[link]](https://github.com/conanlhj/mancala)
+- [2020.06 ~ 2020.09] : Nonogram Solver 제작 [[link]](https://github.com/conanlhj/nonogram_solver)
 
 <br>
 
@@ -70,12 +73,48 @@
 
 <br>
 
+# <img src="https://media.giphy.com/media/v1sJPCGg1z2HROGgV6/giphy.gif" width =40px><b> Publications </b><img src="https://media.giphy.com/media/v1sJPCGg1z2HROGgV6/giphy.gif" width =40px>
+
+## **International Conference**
+
+- ### **2022**
+  - **Han-Jin Lee**, Min-Su Joo, & Ellen J. Hong (2022). Pre-Processing Method for Improving Performance of Port Hole Datasets. KICSP Summer Academic Conference
+
+## **Domestic Journal**
+
+- ### **2022**
+  - **Han-Jin Lee**, Ji-Woong Yang and Ellen J. Hong. (2022). Proposed Pre-Processing Method for Improving Pothole Dataset Performance in Deep Learning Model and Verification by YOLO Model. JISPS, 23(4), 249-255.
+
+## **Domestic Conference**
+
+- ### **2023**
+  - 정현진, 정태원, 이한진 & 최석환 (2023). 쿼리 기반 블랙박스 적대적 공격 방어 기법의 한계에 관한 연구. KIIS 춘계학술대회
+- ### **2021**
+  - 이한진, 현승민, & 홍정희 (2021). CycleGan을 이용한 증강현실 구현의 효율성 증가. KAICTS 추계학술대회
+  - 이한진, 박찬홍, & 홍정희 (2021). 딥러닝 표정 인식을 활용한 고통 강도 예측. KAICTS 하계학술대회
+
+<br>
+
+# <img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif" width=40px><b> Education </b><img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif" width=40px>
+
+- [2023.03 ~ ] : Yonsei University Department of Computer Science Integrated Undergraduate-Graduate Program.
+- [2020.03 ~ ] : Yonsei University Mirae Campus Department of Computer Information and Communication Engineering.
+- [2016.03 ~ 2019.02] : Sangmoon High School.
+
+<br>
+
+# <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width=40px><b> Career </b><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width=40px>
+
+- [2023.03 ~ ] : [AISLab](https://sites.google.com/view/aislab-shchoi) Undergraduate Researcher.
+
+<br>
+
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=40px><b> My Stats </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=40px>
 
 <br>
 
 <div align="left">
-<p align="left">
+<p align="center">
 <a href="https://github.com/conanlhj/">
   <img src="https://github-readme-stats.vercel.app/api?username=conanlhj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=material-palenight" width="400"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conanlhj&show_icons=true&locale=en&layout=compact&line_height=20&theme=material-palenight" width="250"  alt="conanlhj"/>
